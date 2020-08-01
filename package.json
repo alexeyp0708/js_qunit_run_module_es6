@@ -1,0 +1,29 @@
+{
+  "name": "@alexeyp0708/qunit_run_module_es6",
+  "version": "1.0.1",
+  "description": "Runs a qunit tests written for ES6 modules",
+  "keywords": [
+    "qunit",
+    "module",
+    "es6",
+    "unit",
+    "tests"
+  ],
+  "bin": {
+    "qunit-m": "bin/qunit.js"
+  },
+  "author": "Alexey Pakhomov <alexeyp0708@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "qunit": "^2.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ALexeyP0708/js_qunit_run_module_es6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ALexeyP0708/js_qunit_run_module_es6/issues"
+  },
+  "homepage": "https://github.com/ALexeyP0708/js_qunit_run_module_es6",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
